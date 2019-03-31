@@ -1,0 +1,6 @@
+<form name="downloadFile" action="downloads.php" method="POST">
+	Download Image:
+	Enter File Name Which You Want To Download:
+	<input type="text" name="filename" value=""/><br/>
+	<input type="submit" name="btnDownloadfile" value="Click To Download"/>        
+</form>  
